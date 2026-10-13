@@ -43,11 +43,11 @@ Rock beats Scissors, Scissors beats Paper, and Paper beats Rock. Identical choic
 
 ## Project Team
 
-- Haatif Syed
 - Musab Nevrekar
-- Umair
-- Saidhurrahman
 
-## Learning Outcomes
+
+## Game Screenshot
+
+![Rock-Paper-Scissors Game](OutPut.png)
 
 This project demonstrates Python dictionaries, conditional statements, classes, GUI widgets, event handling and scheduled callbacks.
