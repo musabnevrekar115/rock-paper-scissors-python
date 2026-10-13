@@ -48,6 +48,6 @@ Rock beats Scissors, Scissors beats Paper, and Paper beats Rock. Identical choic
 
 ## Game Screenshot
 
-![Rock-Paper-Scissors Game](Screenshot 2026-10-13 205138.png)
+![Rock-Paper-Scissors Game](Screenshot%202026-10-13%20205138.png)
 
 This project demonstrates Python dictionaries, conditional statements, classes, GUI widgets, event handling and scheduled callbacks.
